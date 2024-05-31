@@ -37,3 +37,5 @@ Dopo il download, che va effettuato solo per le librerie che non sono preinstall
 6.	Occorrenze delle Parts of Speech. Nell’ultima parte dell’analisi è stata utilizzata la libreria udpipe per individuare le parti del discorso nei data frame e calcolarne l’occorrenza. Le 17 parti del discorso sono state annotate in un data frame con il numero di occorrenze e il valore percentuale di ciascuna.
 
 7.	Generazione dei grafici. I risultati sono stati inseriti nei grafici generati con ggplot, lattice e quanteda.textplots.
+
+Il codice sorgente è consultabile nello script, mentre i risultati sono stati inseriti nella presentazione. Entrambi i file sono navigabili all'interno di questo repository.
